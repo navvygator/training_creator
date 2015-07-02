@@ -1,0 +1,36 @@
+.valign-wrapper {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center; }
+.valign-wrapper .valign {
+    display: block; }
+
+.height98{
+    min-height: 98vh;
+}
+
+.padding20
+{
+    padding: 20px;
+}
+
+.centered{
+    text-align: center;
+}
+
+.padding0
+{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.padding-top100
+{
+    padding-top: 100px;
+}
