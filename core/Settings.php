@@ -12,9 +12,9 @@ class Settings {
 
     private $database = array(
         'host'=>'localhost',
-        'name'=>'trening-new',
-        'user'=>'root',
-        'pass'=>'smal888'
+        'name'=>'database',
+        'user'=>'user',
+        'pass'=>'password'
     );
 
     private $route = array(
